@@ -2,9 +2,9 @@
 
 ### Trabajo final Máster universitario de desarrollo de aplicaciones para dispositivos móviles 
 ### UOC (Universitat Oberta de Catalunya)
+<br>
 
-
-### 🗺️🚩 Aplicación de diarios de viaje geolocalizados para Android
+## 🗺️🚩 Aplicación de diarios de viaje geolocalizados para Android
 
 Este proyecto consiste en el desarrollo de una aplicación Android para crear diarios de viaje que ofrece al usuario geolocalizar sus fotos y comentarios de una forma simple e intuitiva. “Foottrips” permite crear carpetas de viajes donde los usuarios añadirán sus “Footprints”, que serían como postales con foto e información. Posteriormente los viajes con sus “Footprints” se pueden visualizar en forma de blog y geolocalizados en un mapa. 
 
@@ -15,7 +15,7 @@ En la tercera fase se procede con el desarrollo de una aplicación nativa en And
 En la cuarta y última fase, se realizan test con usuarios y pruebas de funcionalidad para añadir mejoras a la aplicación. Por último, se termina con las conclusiones del proyecto y el resultado de una memoria escrita.
 
 
-### 🗺️🚩 Geoloacted Travel Diaries Application for Android 
+## 🗺️🚩 Geoloacted Travel Diaries Application for Android 
 
 This project consists of the development of an Android application to create travel diaries that offers the user to geolocate their photos and comments in a simple and intuitive way. "Foottrips" allows to create trip folders where users will add their "Footprints", which would be like postcards with photo and information. Subsequently, trips with their "Footprints" can be viewed as a blog and located on a map. 
 
