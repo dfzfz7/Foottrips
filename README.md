@@ -17,6 +17,10 @@ En la cuarta y última fase, se realizan test con usuarios y pruebas de funciona
 
 <br>
 
+Mira el video de demostración 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+
+<br>
+
 ## Geolocated Travel Diaries Application for Android
 
 This project consists of the development of an Android application to create travel diaries that offers the user to geolocate their photos and comments in a simple and intuitive way. "Foottrips" allows to create trip folders where users will add their "Footprints", which would be like postcards with photo and information. Subsequently, trips with their "Footprints" can be viewed as a blog and located on a map. 
@@ -26,3 +30,8 @@ The application development process is divided into four phases. A first phase o
 The third phase proceeds with the development of a native Android application that geolocates and displays content using Firebase and Google Maps. Android Studio is used as a development environment, For the database, user authentication and cloud storage Firebase has been used, and for the geolocation and map management the Google Maps API has been applied. 
 
 In the fourth and final phase, tests with users and functionality tests are carried out in order to add improvements to the application. By last, it ends with the conclusions of the project and the result of a written report.
+
+<br>
+
+Check out the demostration video 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+
