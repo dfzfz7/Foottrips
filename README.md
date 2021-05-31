@@ -23,6 +23,8 @@ Mira el video de demostración 🎞️ [FOOTTRIPS - Aplicación de diarios de vi
 
 <hr>
 
+# <img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="48" height="48" />  Foottrips 
+
 ### Final project of the university master's degree in mobile application development 
 ### UOC (Open University of Catalonia)
 
