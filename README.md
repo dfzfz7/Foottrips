@@ -17,7 +17,7 @@ En la cuarta y última fase, se realizan test con usuarios y pruebas de funciona
 
 <br>
 
-Mira el video de demostración 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+Video de demostración 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
 
 <br>
 
@@ -42,6 +42,6 @@ In the fourth and final phase, tests with users and functionality tests are carr
 
 <br>
 
-Check out the demostration video 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+Demostration video 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
 
 
