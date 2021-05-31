@@ -42,6 +42,8 @@ In the fourth and final phase, tests with users and functionality tests are carr
 
 <br>
 
-Demostration video 🎞️ [FOOTTRIPS - Aplicación de diarios de viaje geolocalizados para Android](https://odysee.com/@dfzfz7:b/Foottrips-Android-App-Video:c)
+### Short Demostration Video
+
+https://user-images.githubusercontent.com/62215554/120189631-e1026900-c217-11eb-84ff-d1bf23099383.mp4
 
 
