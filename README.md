@@ -26,6 +26,8 @@ Mira el video de demostración 🎞️ [FOOTTRIPS - Aplicación de diarios de vi
 ### Final project of the university master's degree in mobile application development 
 ### UOC (Open University of Catalonia)
 
+<br>
+
 ## Geolocated Travel Diaries Application for Android
 
 This project consists of the development of an Android application to create travel diaries that offers the user to geolocate their photos and comments in a simple and intuitive way. "Foottrips" allows to create trip folders where users will add their "Footprints", which would be like postcards with photo and information. Subsequently, trips with their "Footprints" can be viewed as a blog and located on a map. 
