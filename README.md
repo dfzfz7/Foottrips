@@ -1,4 +1,4 @@
-# Foottrips <img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="48" height="48" />
+# <img title="Foottrips" alt="Foottrips" src="https://github.com/dfzfz7/dfzfz7/blob/main/assets/foottrips.png" width="48" height="48" />  Foottrips 
 
 ### Trabajo final de máster universitario de desarrollo de aplicaciones para dispositivos móviles 
 ### UOC (Universitat Oberta de Catalunya)
